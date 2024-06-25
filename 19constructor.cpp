@@ -7,7 +7,7 @@ public:
 
     Rectangle(){        //defau;t constructor - no args
         length = 3;
-        breadth = 2;
+        breadth = 4;
     }
 
     Rectangle(int x, int y){        //paarmeterised constructor - args passed
