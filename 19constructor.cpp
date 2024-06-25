@@ -6,7 +6,7 @@ public:
     int length, breadth;
 
     Rectangle(){        //defau;t constructor - no args
-        length = 5;
+        length = 3;
         breadth = 4;
     }
 
